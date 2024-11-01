@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shraq\\Documents\\Git@Shark\\RealTimeAirlineTrafficSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F12C276B-CC08-46FC-B8A9-2D99221A45CC}|RTATS.Scheduler\\RTATS.Scheduler.csproj|c:\\users\\shraq\\documents\\git@shark\\realtimeairlinetrafficsystem\\rtats.scheduler\\schedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12C276B-CC08-46FC-B8A9-2D99221A45CC}|RTATS.Scheduler\\RTATS.Scheduler.csproj|solutionrelative:rtats.scheduler\\schedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12C276B-CC08-46FC-B8A9-2D99221A45CC}|RTATS.Scheduler\\RTATS.Scheduler.csproj|c:\\users\\shraq\\documents\\git@shark\\realtimeairlinetrafficsystem\\rtats.scheduler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F12C276B-CC08-46FC-B8A9-2D99221A45CC}|RTATS.Scheduler\\RTATS.Scheduler.csproj|solutionrelative:rtats.scheduler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12C276B-CC08-46FC-B8A9-2D99221A45CC}|RTATS.Scheduler\\RTATS.Scheduler.csproj|c:\\users\\shraq\\documents\\git@shark\\realtimeairlinetrafficsystem\\rtats.scheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12C276B-CC08-46FC-B8A9-2D99221A45CC}|RTATS.Scheduler\\RTATS.Scheduler.csproj|solutionrelative:rtats.scheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9285FD3-6413-4543-837D-18CAC01A8610}|RTATS.Admin\\RTATS.Admin.csproj|c:\\users\\shraq\\documents\\git@shark\\realtimeairlinetrafficsystem\\rtats.admin\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9285FD3-6413-4543-837D-18CAC01A8610}|RTATS.Admin\\RTATS.Admin.csproj|solutionrelative:rtats.admin\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 565,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shraq\\Documents\\Git@Shark\\RealTimeAirlineTrafficSystem\\RTATS.Scheduler\\appsettings.json",
+              "RelativeDocumentMoniker": "RTATS.Scheduler\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shraq\\Documents\\Git@Shark\\RealTimeAirlineTrafficSystem\\RTATS.Scheduler\\appsettings.json",
+              "RelativeToolTip": "RTATS.Scheduler\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-10-17T05:50:54.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shraq\\Documents\\Git@Shark\\RealTimeAirlineTrafficSystem\\RTATS.Scheduler\\Program.cs",
+              "RelativeDocumentMoniker": "RTATS.Scheduler\\Program.cs",
+              "ToolTip": "C:\\Users\\Shraq\\Documents\\Git@Shark\\RealTimeAirlineTrafficSystem\\RTATS.Scheduler\\Program.cs",
+              "RelativeToolTip": "RTATS.Scheduler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-17T05:50:54.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Shraq\\Documents\\Git@Shark\\RealTimeAirlineTrafficSystem\\RTATS.Admin\\Startup.cs",
+              "RelativeDocumentMoniker": "RTATS.Admin\\Startup.cs",
+              "ToolTip": "C:\\Users\\Shraq\\Documents\\Git@Shark\\RealTimeAirlineTrafficSystem\\RTATS.Admin\\Startup.cs",
+              "RelativeToolTip": "RTATS.Admin\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-17T05:50:54.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchedulerService.cs",
+              "DocumentMoniker": "C:\\Users\\Shraq\\Documents\\Git@Shark\\RealTimeAirlineTrafficSystem\\RTATS.Scheduler\\SchedulerService.cs",
+              "RelativeDocumentMoniker": "RTATS.Scheduler\\SchedulerService.cs",
+              "ToolTip": "C:\\Users\\Shraq\\Documents\\Git@Shark\\RealTimeAirlineTrafficSystem\\RTATS.Scheduler\\SchedulerService.cs",
+              "RelativeToolTip": "RTATS.Scheduler\\SchedulerService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-17T05:50:54.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 353,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

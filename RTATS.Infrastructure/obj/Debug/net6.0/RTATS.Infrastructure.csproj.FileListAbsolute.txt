@@ -1,0 +1,17 @@
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\obj\Debug\net6.0\RTATS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\obj\Debug\net6.0\RTATS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\obj\Debug\net6.0\RTATS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\obj\Debug\net6.0\RTATS.Infrastructure.AssemblyInfo.cs
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\obj\Debug\net6.0\RTATS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\bin\Debug\net6.0\RTATS.Infrastructure.deps.json
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\bin\Debug\net6.0\RTATS.Infrastructure.dll
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\bin\Debug\net6.0\RTATS.Infrastructure.pdb
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\bin\Debug\net6.0\RTATS.Application.dll
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\bin\Debug\net6.0\RTATS.Core.dll
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\bin\Debug\net6.0\RTATS.Application.pdb
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\bin\Debug\net6.0\RTATS.Core.pdb
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\obj\Debug\net6.0\RTATS.Infrastructure.csproj.CopyComplete
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\obj\Debug\net6.0\RTATS.Infrastructure.dll
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\obj\Debug\net6.0\refint\RTATS.Infrastructure.dll
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\obj\Debug\net6.0\RTATS.Infrastructure.pdb
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Infrastructure\obj\Debug\net6.0\ref\RTATS.Infrastructure.dll

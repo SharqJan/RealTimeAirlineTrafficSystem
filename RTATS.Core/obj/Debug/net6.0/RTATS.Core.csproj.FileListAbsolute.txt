@@ -1,0 +1,11 @@
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Core\bin\Debug\net6.0\RTATS.Core.deps.json
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Core\bin\Debug\net6.0\RTATS.Core.dll
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Core\bin\Debug\net6.0\RTATS.Core.pdb
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Core\obj\Debug\net6.0\RTATS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Core\obj\Debug\net6.0\RTATS.Core.AssemblyInfoInputs.cache
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Core\obj\Debug\net6.0\RTATS.Core.AssemblyInfo.cs
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Core\obj\Debug\net6.0\RTATS.Core.csproj.CoreCompileInputs.cache
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Core\obj\Debug\net6.0\RTATS.Core.dll
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Core\obj\Debug\net6.0\refint\RTATS.Core.dll
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Core\obj\Debug\net6.0\RTATS.Core.pdb
+C:\Users\Shraq\Documents\Git@Shark\RealTimeAirlineTrafficSystem\RTATS.Core\obj\Debug\net6.0\ref\RTATS.Core.dll
